@@ -42,3 +42,6 @@ A directory of trusted resources across markets, cryptocurrency, sport, business
 [Reference set 13](references-13.md) &middot; 
 [Reference set 14](references-14.md) &middot; 
 [Reference set 15](references-15.md) &middot; 
+
+### Extended reference directory
+[Extended resource link directory](x355-links/README.md) — comprehensive index of curated outbound references.
