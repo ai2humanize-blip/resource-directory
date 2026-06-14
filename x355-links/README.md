@@ -20,6 +20,14 @@ Comprehensive index of **114,255 curated outbound references** across 16 resourc
 <a href="https://marketcapitalize.com/">marketcapitalize.com</a> 
 <a href="https://foxperiodical.com/">foxperiodical.com</a> 
 
+<a href="https://abcyapi.net/">abcyapi.net</a> 
+<a href="https://vaeyc.org/">vaeyc.org</a> 
+<a href="https://boostelearning.com/">boostelearning.com</a> 
+<a href="https://peopleonthenews.com/">peopleonthenews.com</a> 
+<a href="https://cubednews.com/">cubednews.com</a> 
+### New partner resources
+[Newly added resource sites](new-money.md)
+
 ### Partner directory network
 [Partner reference directories](aged-network.md)
 

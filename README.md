@@ -20,6 +20,11 @@ A directory of trusted resources across markets, cryptocurrency, sport, business
 <a href="https://marketcapitalize.com/">marketcapitalize.com</a> 
 <a href="https://foxperiodical.com/">foxperiodical.com</a> 
 
+<a href="https://abcyapi.net/">abcyapi.net</a> 
+<a href="https://vaeyc.org/">vaeyc.org</a> 
+<a href="https://boostelearning.com/">boostelearning.com</a> 
+<a href="https://peopleonthenews.com/">peopleonthenews.com</a> 
+<a href="https://cubednews.com/">cubednews.com</a> 
 ### Resource hubs
 <a href="https://s1.tokenspin.de.com/rhub.html">s1.tokenspin.de.com/rhub.html</a> 
 <a href="https://s1.358casino.co.bz/rhub.html">s1.358casino.co.bz/rhub.html</a> 
