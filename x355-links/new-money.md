@@ -11,6 +11,8 @@ Recently added curated resource sites.
 
 <a href="https://cyberkannadigs.org/">cyberkannadigs.org</a> 
 
+<a href="https://hogatoga.com.co/">hogatoga.com.co</a> 
+
 ### Reference sets
 [set 01](newmoney-set-01.md) &middot; [set 02](newmoney-set-02.md) &middot; [set 03](newmoney-set-03.md) &middot; [set 04](newmoney-set-04.md) &middot; [set 05](newmoney-set-05.md) &middot; [set 06](newmoney-set-06.md) &middot; [set 07](newmoney-set-07.md) &middot; [set 08](newmoney-set-08.md) &middot; [set 09](newmoney-set-09.md) &middot; [set 10](newmoney-set-10.md) &middot; [set 11](newmoney-set-11.md) &middot; [set 12](newmoney-set-12.md) &middot; [set 13](newmoney-set-13.md)
 
@@ -23,3 +25,6 @@ Recently added curated resource sites.
 
 ### Cyber safety reference sets
 [cyber set 01](cyberk-set-01.md) &middot; [cyber set 02](cyberk-set-02.md) &middot; [cyber set 03](cyberk-set-03.md)
+
+### Tech reference sets
+[tech set 01](hoga-set-01.md) &middot; [tech set 02](hoga-set-02.md) &middot; [tech set 03](hoga-set-03.md)
