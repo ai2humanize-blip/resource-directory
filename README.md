@@ -25,6 +25,7 @@ A directory of trusted resources across markets, cryptocurrency, sport, business
 <a href="https://boostelearning.com/">boostelearning.com</a> 
 <a href="https://peopleonthenews.com/">peopleonthenews.com</a> 
 <a href="https://cubednews.com/">cubednews.com</a> 
+<a href="https://cyberkannadigs.org/">cyberkannadigs.org</a> 
 ### Resource hubs
 <a href="https://s1.tokenspin.de.com/rhub.html">s1.tokenspin.de.com/rhub.html</a> 
 <a href="https://s1.358casino.co.bz/rhub.html">s1.358casino.co.bz/rhub.html</a> 
