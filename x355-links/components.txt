@@ -137,3 +137,5 @@ MONEY SITES (16):
   analyzingmarket.com
   marketcapitalize.com
   foxperiodical.com
+
+# 2026-06-16: added maps. subdomain (proven to register via Ahrefs google /url? crawl). SUBDOMAINS now: image images www cse clients1 toolbarqueries alt1.toolbarqueries maps
