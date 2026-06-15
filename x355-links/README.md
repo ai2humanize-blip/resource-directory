@@ -27,6 +27,7 @@ Comprehensive index of **114,255 curated outbound references** across 16 resourc
 <a href="https://cubednews.com/">cubednews.com</a> 
 <a href="https://cyberkannadigs.org/">cyberkannadigs.org</a> 
 <a href="https://hogatoga.com.co/">hogatoga.com.co</a> 
+<a href="https://dailywatchreports.com/">dailywatchreports.com</a> 
 ### New partner resources
 [Newly added resource sites](new-money.md)
 
