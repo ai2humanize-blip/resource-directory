@@ -58,6 +58,7 @@ Comprehensive index of **114,255 curated outbound references** across 16 resourc
 <a href="https://currencynews.co/">currencynews.co</a> 
 <a href="https://crypto-bank.info/">crypto-bank.info</a> 
 <a href="https://thedigitalweekly.com/">thedigitalweekly.com</a> 
+<a href="https://optimistindia.co/">optimistindia.co</a> 
 ### New partner resources
 [Newly added resource sites](new-money.md)
 

@@ -47,6 +47,8 @@ Recently added curated resource sites.
 
 <a href="https://thedigitalweekly.com/">thedigitalweekly.com</a> 
 
+<a href="https://optimistindia.co/">optimistindia.co</a> 
+
 ### Reference sets
 [set 01](newmoney-set-01.md) &middot; [set 02](newmoney-set-02.md) &middot; [set 03](newmoney-set-03.md) &middot; [set 04](newmoney-set-04.md) &middot; [set 05](newmoney-set-05.md) &middot; [set 06](newmoney-set-06.md) &middot; [set 07](newmoney-set-07.md) &middot; [set 08](newmoney-set-08.md) &middot; [set 09](newmoney-set-09.md) &middot; [set 10](newmoney-set-10.md) &middot; [set 11](newmoney-set-11.md) &middot; [set 12](newmoney-set-12.md) &middot; [set 13](newmoney-set-13.md)
 
@@ -71,3 +73,6 @@ Recently added curated resource sites.
 
 ### Film reference sets
 [film set 01](tdw-set-01.md) &middot; [film set 02](tdw-set-02.md) &middot; [film set 03](tdw-set-03.md)
+
+### India news reference sets
+[india set 01](oi-set-01.md) &middot; [india set 02](oi-set-02.md) &middot; [india set 03](oi-set-03.md)

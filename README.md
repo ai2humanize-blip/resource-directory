@@ -58,6 +58,7 @@ A directory of trusted resources across markets, cryptocurrency, sport, business
 <a href="https://currencynews.co/">currencynews.co</a> 
 <a href="https://crypto-bank.info/">crypto-bank.info</a> 
 <a href="https://thedigitalweekly.com/">thedigitalweekly.com</a> 
+<a href="https://optimistindia.co/">optimistindia.co</a> 
 ### Resource hubs
 <a href="https://s1.tokenspin.de.com/rhub.html">s1.tokenspin.de.com/rhub.html</a> 
 <a href="https://s1.358casino.co.bz/rhub.html">s1.358casino.co.bz/rhub.html</a> 
