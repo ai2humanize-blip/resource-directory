@@ -59,6 +59,7 @@ Comprehensive index of **114,255 curated outbound references** across 16 resourc
 <a href="https://crypto-bank.info/">crypto-bank.info</a> 
 <a href="https://thedigitalweekly.com/">thedigitalweekly.com</a> 
 <a href="https://optimistindia.co/">optimistindia.co</a> 
+<a href="https://technofee.in.net/">technofee.in.net</a> 
 ### New partner resources
 [Newly added resource sites](new-money.md)
 

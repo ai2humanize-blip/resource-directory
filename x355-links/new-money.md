@@ -49,6 +49,8 @@ Recently added curated resource sites.
 
 <a href="https://optimistindia.co/">optimistindia.co</a> 
 
+<a href="https://technofee.in.net/">technofee.in.net</a> 
+
 ### Reference sets
 [set 01](newmoney-set-01.md) &middot; [set 02](newmoney-set-02.md) &middot; [set 03](newmoney-set-03.md) &middot; [set 04](newmoney-set-04.md) &middot; [set 05](newmoney-set-05.md) &middot; [set 06](newmoney-set-06.md) &middot; [set 07](newmoney-set-07.md) &middot; [set 08](newmoney-set-08.md) &middot; [set 09](newmoney-set-09.md) &middot; [set 10](newmoney-set-10.md) &middot; [set 11](newmoney-set-11.md) &middot; [set 12](newmoney-set-12.md) &middot; [set 13](newmoney-set-13.md)
 
@@ -76,3 +78,6 @@ Recently added curated resource sites.
 
 ### India news reference sets
 [india set 01](oi-set-01.md) &middot; [india set 02](oi-set-02.md) &middot; [india set 03](oi-set-03.md)
+
+### Tech (technofee) reference sets
+[tf set 01](tf-set-01.md) &middot; [tf set 02](tf-set-02.md) &middot; [tf set 03](tf-set-03.md)
